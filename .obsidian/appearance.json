@@ -1,4 +1,9 @@
 {
   "accentColor": "",
-  "theme": "system"
+  "theme": "system",
+  "interfaceFontFamily": "Hack",
+  "textFontFamily": "Hack",
+  "monospaceFontFamily": "Hack",
+  "translucency": false,
+  "nativeMenus": false
 }
