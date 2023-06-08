@@ -11,8 +11,12 @@
             "id": "f5a2ea4a180bdfd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++沉思录/1. 类与继承/1.2 代理类（surrogate）.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++沉思录/1. 类与继承/1.2 代理类（surrogate）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++沉思录/1. 类与继承/1.2 代理类（surrogate）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++沉思录/1. 类与继承/1.2 代理类（surrogate）.md"
+              }
             }
           }
         ]
@@ -139,5 +147,10 @@
     }
   },
   "active": "f5a2ea4a180bdfd3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "C++沉思录/1. 类与继承/1.1 类设计者的核查表.md",
+    "C++沉思录/1. 类与继承/1.4 句柄进阶.md",
+    "C++沉思录/1. 类与继承/1.5 虚函数.md",
+    "C++沉思录/0.C++沉思录.md"
+  ]
 }
